@@ -1,65 +1,151 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
-[SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+![Logo](https://cdn.discordapp.com/attachments/1171522902701658185/1171522945206730752/logoBai2.png?ex=655cfcc3&is=654a87c3&hm=0015733a59b090d0eae1b4274806d000677ec1cd60ebfff7096600a220f908f7&)
 
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
 
-## Preview
+# BaiPlus
 
-[![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+Online Banking System 
+- Web Application
+- Responsive on mobile phone, tablet, more
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
-## Status
+## Roles
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
+- Administrator
+- Manager
+- Customer
 
-## Download and Installation
+## Functions & Features
 
-To begin using this template, choose one of the following options to get started:
+- Overview for every Bank branch
+- Viewing in beautiful graphics
+- Advanced Analysis Report
+- Customer Management
+- Account Management
+- Employee Management
+- Credit card Management
+- Transaction Table
+- Bill Management
+- Loan Management
+- Manage History for All Transaction (audit log)
+- Pending Request (to Suspend for Helping Customer)
+- Notification
+- Profile Setting
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/)
-* Install via npm: `npm i startbootstrap-sb-admin-2`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
 
-## Usage
+## Screenshots
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171526907662192700/image.png?ex=655d0074&is=654a8b74&hm=8488511dbfffd40ab667dfc1320d9cfc89f26567da671a50f964005b9cac0156&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527397263294575/image.png?ex=655d00e9&is=654a8be9&hm=7f34707650f3dbddc9647dbd7b255d8e8f89f0eeba1285c7dd6a0526eddf9d5d&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527011081142473/image.png?ex=655d008d&is=654a8b8d&hm=307c92d58b8affd01df959f4e229a4bd36e011e5a07da50a165eea1ce95e68a9&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527027568951296/image.png?ex=655d0091&is=654a8b91&hm=849b72c02d8ad0711b05400a8a30e1fa6c6b6adc92cdb68e75c16348dfff02f8&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527432700969000/image.png?ex=655d00f1&is=654a8bf1&hm=6b6556a598fd199e54236a7077cd74e1aac9f4ce9168a9ebd270a53957e11f62&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527117402550412/image.png?ex=655d00a6&is=654a8ba6&hm=d370548f7c6b0c0bea0cd0ee1e148da707aed8a1eacd44af61d98f4a18fa6cdb&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171527291814285372/image.png?ex=655d00d0&is=654a8bd0&hm=711bc29ba1e07da3f3460c02e2497af1372a3c96dd597fba3ec8be45620532f3&)
 
-### Gulp Tasks
 
-* `gulp` the default task that builds everything
-* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-* `gulp js` minifies the themes JS file
-* `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-You must have npm installed globally in order to use this build environment. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally.
+## Installation & Run Locally
 
-## Bugs and Issues
+Clone the project
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/).
+```bash
+  git clone https://github.com/stalemoon/BaiPlus-Online-Banking-System
+```
 
-## About
+Go to the project directory
+## Local Server & Database using XAMPP
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
+Install XAMPP Control Panel
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+```bash
+  https://www.apachefriends.org/download.html
+```
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+Clone ## BaiPlus-Online-Banking-System ## project into
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+```bash
+  C:/xampp/htdocs/BaiPlus-Online-Banking-System/
+```
 
-## Copyright and License
 
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+
+
+
+## How to create database with .SQL structured
+
+Open browser, go to url
+```bash
+  http://localhost/phpmyadmin/
+```
+Click on Database tab
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171532592546320474/image.png?ex=655d05c0&is=654a90c0&hm=0d1d34a4e123c9fd6b947a15de1744ac8b00eab42d2a7ffa5a7f899a43f3613d&)
+Type database name ane Click create
+```bash
+  baiplus_final
+```
+Click import .SQL file from this
+
+  [baiplus_database.sql](https://cdn.discordapp.com/attachments/1171522902701658185/1171533243380670605/baiplus_database.sql?ex=655d065b&is=654a915b&hm=bfc7b101d60bf40e24a6a44aeadda6b524cbf682a5122615c632d48b6850796d&)
+
+You may see screen like this,
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171533905577386095/image.png?ex=655d06f9&is=654a91f9&hm=4a425624e5dfc4bb12fd0221338b4a2690c1656ba04e9888d30fd98dd8e19c9f&)
+
+## Run XAMPP Local Server
+Open XAMPP Control Panel
+
+```bash
+  Start these the server above
+```
+- Apache
+- MySQL
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1171522902701658185/1171529357727121429/image.png?ex=655d02bc&is=654a8dbc&hm=a9da7393088e684d7566c25042ea73066e3947efe1d81da16e0d610bf5f51ee3&)
+## Run & Use Web application
+
+
+Open new tab and go to url
+- 127.0.0.1/BaiPlus-Online-Banking-System
+- localhost/BaiPlus-Online-Banking-System
+
+## Login Roles
+You can find Username and Password of each Roles
+- Admin
+```
+  Username : Admin
+  Password : 123
+```
+- Manager
+```
+  Username : Manager
+  Password : 123
+```
+- Customer
+```
+  For customer UI, you can find out from this :
+  https://github.com/phongprawiratt/Kla_BaiPlus
+  https://github.com/lnwbeer/BankingBaiplus
+  https://github.com/fifa0095/Banking-system-cpe241
+```
+## Authors
+
+- [@stalemoon](https://github.com/stalemoon)
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript, Bootsrap,
+
+- Theme & Color from SB-Admin 2
+- Chartjs
+
+**Connecting & Calling Database:** PHP
+
+**Server:** Apache
+
+**Database:** MySQL
+## Support
+
+For support, email thanawan.sutt@kmutt.ac.th
+
