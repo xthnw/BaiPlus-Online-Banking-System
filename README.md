@@ -149,3 +149,6 @@ You can find Username and Password of each Roles in database in employee table
 
 For support, email thanawan.sutt@kmutt.ac.th
 
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1069965471803248701/1111706592874868790/lofo-draftr-final-01.png?ex=6557a1f2&is=65452cf2&hm=381761721806ed1c6e81d14cc3fc1f519f14197e37439a0a810aeb763f5e2873&)
+
