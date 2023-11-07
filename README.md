@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1171522902701658185/1171522945206730752/logoBai2.png?ex=655cfcc3&is=654a87c3&hm=0015733a59b090d0eae1b4274806d000677ec1cd60ebfff7096600a220f908f7&)
+![Logo](https://cdn.discordapp.com/attachments/1171522902701658185/1171540716137218059/image.png?ex=655d0d50&is=654a9850&hm=c8e0ddcc7c3ba85751b2dd73686e89ee7cc2564b1ec4d32087d6ce6f3d10499a&)
 
 
 # BaiPlus
@@ -110,7 +110,7 @@ Open new tab and go to url
 - localhost/BaiPlus-Online-Banking-System
 
 ## Login Roles
-You can find Username and Password of each Roles
+You can find Username and Password of each Roles in database in employee table
 - Admin
 ```
   Username : Admin
