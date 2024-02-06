@@ -124,9 +124,7 @@ You can find Username and Password of each Roles in database in employee table
 - Customer
 ```
   For customer UI, you can find out from this :
-  https://github.com/phongprawiratt/Kla_BaiPlus
-  https://github.com/lnwbeer/BankingBaiplus
-  https://github.com/fifa0095/Banking-system-cpe241
+  https://github.com/Dustae/Baiplus_banking
 ```
 ## Authors
 
