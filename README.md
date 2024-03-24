@@ -1,6 +1,7 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1171522902701658185/1171540716137218059/image.png?ex=655d0d50&is=654a9850&hm=c8e0ddcc7c3ba85751b2dd73686e89ee7cc2564b1ec4d32087d6ce6f3d10499a&)
+![Logo](https://cdn.discordapp.com/attachments/1197285952025014423/1221373352267219024/originalbp.png?ex=66125793&is=65ffe293&hm=fd8e2fdbd9bf74665207cbb73f92daef024797c9218478a3d5586a3ed8451826&)
 
+Main Repo on : https://github.com/Dustae/Baiplus_banking
 
 # BaiPlus
 
